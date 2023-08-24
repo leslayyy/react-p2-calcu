@@ -1,6 +1,6 @@
 # P2 INDIVIDUAL ACTIVITY
 
-Click the live https://PatrickJoshAntonio.github.io/React-p2individualactivity to open in your browser
+Click the live https://leslayyy.github.io/react-p2-calcu to open in your browser
 
 ## Using State in React.js, create the following:
 1. Create 2 text field 
