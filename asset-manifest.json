@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-p2-calcu/static/css/main.58eb2a2c.css",
+    "main.js": "/react-p2-calcu/static/js/main.12bf75fa.js",
+    "static/media/calcu": "/react-p2-calcu/static/media/calcu.b975c2f3f58db612aae3",
+    "index.html": "/react-p2-calcu/index.html",
+    "main.58eb2a2c.css.map": "/react-p2-calcu/static/css/main.58eb2a2c.css.map",
+    "main.12bf75fa.js.map": "/react-p2-calcu/static/js/main.12bf75fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58eb2a2c.css",
+    "static/js/main.12bf75fa.js"
+  ]
+}
