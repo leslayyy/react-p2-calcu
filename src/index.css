@@ -1,0 +1,45 @@
+body{
+  min-height: 100vh;
+  background-image: url(../src/assets/calcu);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  text-align: center;
+  color: black;
+  font-family:'Courier New', Courier, monospace;
+  font-size: 800;
+  
+}
+input {
+  width: 100%;
+  margin: 10px 0;
+  padding: 8px 0px;
+  border-radius: 5px;
+  font-family:'Courier New', Courier, monospace;
+  font-size: medium;
+  
+}
+
+button {
+  width: 100%;
+  padding: 8px 0px;
+  margin-top: 2px;
+  border-radius: 5px;
+  background-color: #d18feb;
+  color: black;
+  font-family:'Courier New', Courier, monospace;
+  font-size: medium;
+  font-weight: bold;
+  
+}
+
+button:hover {
+  opacity: 50%;
+  color: black;
+}
